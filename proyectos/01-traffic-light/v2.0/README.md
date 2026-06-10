@@ -15,6 +15,6 @@ Es decir que el arduino leea el boton para ver si pasa la corriente o no y si po
 *Alomejor hay mejoras no se sabe.
 
 ### Simulación del Circuito::
-![Circuito de Tinkercad](capture-v2.0.png)
+![Circuito de Tinkercad](v2.0-capture.png)
 
 
