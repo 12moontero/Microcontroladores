@@ -8,4 +8,5 @@ En este repositorio voy a ir subiendo todos mis proyectos, circuitos y códigos 
 * **Lenguaje:** C++ .
 
 ### Mis Proyectos:
-1. **Semáforo :** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo. Con versiones. 9/06/2026
+1. **Semáforo :** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo. Con versiones.
+   * ** v1.0 - 9/06/2026
