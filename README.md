@@ -8,4 +8,4 @@ En este repositorio voy a ir subiendo todos mis proyectos, circuitos y códigos 
 * **Lenguaje:** C++ .
 
 ### Mis Proyectos:
-1. **Semáforo Inteligente:** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo en 6000 milisegundos = 6seg. 9/06/2026
+1. **Semáforo :** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo. Con versiones. 9/06/2026
