@@ -9,4 +9,4 @@ Este es mi primer proyecto simulado en Tinkercad.Antes de todo tendra mejoras pr
 *Tercero con la led roja, 6 segundos encendida y se apaga.
 Y otra vez a comenzar es todo el rato este bucle.
 
-Como bien he dicho tendra mejoras.
+*Como bien he dicho tendra mejoras.
