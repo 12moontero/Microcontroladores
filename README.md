@@ -3,8 +3,8 @@
 En este repositorio voy a ir subiendo todos mis proyectos, circuitos y códigos dedicados a la electrónica. 
 
 ### Estoy usando:
-* **Simulador:** Tinkercad (para hacer las primeras pruebas de circuitos y códigos de forma segura).
-* **Placas reales:** Placa WeMos D1 UNO, con WiFi ESP8266 y componentes reales en mi protoboard.
+* **Simulador:** Tinkercad 
+* **Placas reales:** Placa WeMos D1 UNO, con WiFi ESP8266 y sensores.
 * **Lenguaje:** C++ .
 
 ### Mis Proyectos:
