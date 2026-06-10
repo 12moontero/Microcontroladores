@@ -1,3 +1,4 @@
+# v1.0
 # Proyecto 01: Traffic Light
 
 Este es mi primer proyecto simulado en Tinkercad. Antes de todo tendra mejoras progresivas
