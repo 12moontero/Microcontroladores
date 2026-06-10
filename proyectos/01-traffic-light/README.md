@@ -13,4 +13,4 @@ Este es mi primer proyecto simulado en Tinkercad. Antes de todo tendra mejoras p
 *Como bien he dicho tendra mejoras.
 
 ### Esquema:
-![Circuito de Tinkercad](Screenshot 2026-06-10 111531.png)
+![Circuito de Tinkercad](circuito.png)
