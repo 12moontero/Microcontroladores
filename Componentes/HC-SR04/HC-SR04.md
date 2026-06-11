@@ -24,6 +24,11 @@ Esta es una imagen creada por mi donde te dice que pin es cada cosa
 | **ECHO** | 🟢 Verde | Eco (Señal) | Pin Digital |
 | **GND** | ⚫ Negro | Tierra (-) | GND/Tierra |
 
+| **VCC** | 🔴 Rojo | Alimentación (+) | pin de energía |
+| **TRIG** | 🔵 Azul | Disparador (Señal) | Pin Digital |
+| **ECHO** | 🟢 Verde | Eco (Señal) | Pin Digital  |
+| **GND** | ⚫ Negro | Tierra (-) | GND/Tierra  |
+
 
 ##  Funcionamiento
 
