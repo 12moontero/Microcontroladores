@@ -17,12 +17,12 @@ Esta es una imagen creada por mi donde te dice que pin es cada cosa
 
 ![Esquema de Pines del Sensor](tu-imagen-de-canva.png)
 
-| Pin      | Color del Cable | Función           | ¿A dónde se conecta? 
-
-* **VCC**  | 🔴 Rojo        | Alimentación (+)   | Pin de energía
-* **TRIG** | 🔵 Azul        | Disparador (Señal) | Pin Digital
-* **ECHO** | 🟢 Verde       | Eco (Señal)        | Pin Digital
-* **GND**  | ⚫ Negro       | Tierra (-)         | GND/Tierra 
+| Pin      | Color del Cable | Función           | ¿A dónde se conecta? |
+| :--- | :--- | :--- | :--- |
+| **VCC**  | 🔴 Rojo        | Alimentación (+)   | Pin de energía |
+| **TRIG** | 🔵 Azul        | Disparador (Señal) | Pin Digital |
+| **ECHO** | 🟢 Verde       | Eco (Señal)        | Pin Digital |
+| **GND**  | ⚫ Negro       | Tierra (-)         | GND/Tierra |
 
 
 
