@@ -15,7 +15,7 @@ Un sensor digital diseñado para **medir distancias** (entre 2 cm y 400 cm) util
 
 Esta es una imagen creada por mi donde te dice que pin es cada cosa
 
-![Esquema de Pines del Sensor](tu-imagen-de-canva.png)
+![Esquema de Pines del Sensor](esquema-pines.png)
 
 | Pin      | Color del Cable | Función           | ¿A dónde se conecta? |
 | :--- | :--- | :--- | :--- |
