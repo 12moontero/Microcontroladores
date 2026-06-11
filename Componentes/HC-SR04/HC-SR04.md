@@ -19,15 +19,11 @@ Esta es una imagen creada por mi donde te dice que pin es cada cosa
 
 | Pin | Color del Cable | Función | ¿A dónde se conecta? |
 
-| **VCC** | 🔴 Rojo | Alimentación (+) | Pin de energía |  
-| **TRIG** | 🔵 Azul | Disparador (Señal) | Pin Digital |
-| **ECHO** | 🟢 Verde | Eco (Señal) | Pin Digital |
-| **GND** | ⚫ Negro | Tierra (-) | GND/Tierra |
+* ** **VCC** | 🔴 Rojo | Alimentación (+) | Pin de energía |  
+* **TRIG** | 🔵 Azul | Disparador (Señal) | Pin Digital |
+* **ECHO** | 🟢 Verde | Eco (Señal) | Pin Digital |
+* **GND** | ⚫ Negro | Tierra (-) | GND/Tierra |
 
-| **VCC** | 🔴 Rojo | Alimentación (+) | pin de energía |
-| **TRIG** | 🔵 Azul | Disparador (Señal) | Pin Digital |
-| **ECHO** | 🟢 Verde | Eco (Señal) | Pin Digital  |
-| **GND** | ⚫ Negro | Tierra (-) | GND/Tierra  |
 
 
 ##  Funcionamiento
