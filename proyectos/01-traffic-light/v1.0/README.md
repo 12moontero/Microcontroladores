@@ -16,5 +16,5 @@ Este es mi primer proyecto simulado en Tinkercad. Antes de todo tendra mejoras p
 ### Simulación del Circuito::
 ![Circuito de Tinkercad](v1.0-capture.png)
 
-<video src=https://github.com/user-attachments/assets/6b376c16-5c2d-4cb6-b326-b6ff73a3436f autoplay loop muted playsinline controls></video>
+<video src= https://github.com/user-attachments/assets/6b376c16-5c2d-4cb6-b326-b6ff73a3436f autoplay loop muted playsinline controls></video>
 
