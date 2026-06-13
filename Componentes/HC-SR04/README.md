@@ -34,3 +34,6 @@ Esta es una imagen creada por mi donde te dice que pin es cada cosa
 4. Al recibir el eco, el pin **ECHO** se activa.
 5. El procesador calcula el tiempo del viaje y lo **divide entre 58** para obtener los centímetros reales.
 
+##  Imagen
+
+![Imagen del Sensor](Imagen-HC-SR04.png)
