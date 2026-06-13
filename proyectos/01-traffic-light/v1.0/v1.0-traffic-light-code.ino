@@ -1,7 +1,7 @@
 // C++ code
-int ledGreen = 13;
-int ledOrange = 12;
-int ledRed = 11;
+int ledGreen = D7;
+int ledOrange = D6;
+int ledRed = D5;
 
 void setup()
 {
