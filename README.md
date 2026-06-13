@@ -1,10 +1,11 @@
 # Mis Comienzos en Arduino y circuitos
 
 En este repositorio voy a ir subiendo todos mis proyectos, circuitos y códigos dedicados a la electrónica. 
+También vais a ver que está el código con pines de Arduino, pero en realidad yo uso una placa WeMos D1 R3.
 
 ### Estoy usando:
 * **Simulador:** Tinkercad 
-* **Placas reales:** Placa WeMos D1 UNO, con WiFi ESP8266 y sensores.
+* **Placa real:** WeMos D1 UNO R3, con WiFi ESP8266 y sensores.
 * **Lenguaje:** C++ .
 
 ### Mis Proyectos:
