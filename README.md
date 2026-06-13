@@ -9,5 +9,7 @@ También vais a ver que está el código con pines de Arduino, pero en realidad 
 * **Lenguaje:** C++ .
 
 ### Mis Proyectos:
-1. **Semáforo :** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo. Con versiones.
-   * ** v1.0 - 9/06/2026
+1. **Semáforo :** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo. 
+#### Versiones:
+   * v1.0 - 9/06/2026
+   * v2.0 - 10/06/2026
