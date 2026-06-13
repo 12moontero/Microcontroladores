@@ -1,4 +1,5 @@
-# v2.0 : proyect 01
+# v2.0
+# Proyecto 01: Traffic Light
 
 Estas son las mejoras implementadas, son inportates ya que añade algo nuevo que es usar el INPUT
 Es decir que el arduino leea el boton para ver si pasa la corriente o no y si poner la luz en rojo o en verde.
