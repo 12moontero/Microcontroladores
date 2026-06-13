@@ -1,7 +1,8 @@
 # Mis Comienzos en Arduino y circuitos
 
 En este repositorio voy a ir subiendo todos mis proyectos, circuitos y códigos dedicados a la electrónica. 
-También vais a ver que está el código con pines de Arduino, pero en realidad yo uso una placa WeMos D1 R3.
+También vais a ver que está el código con pines de Arduino, pero en realidad yo uso una placa WeMos D1 R3.  
+Eso significa que los códigos que veas están hechos para WeMos D1 UNO R3 y no para Arduino, el código es el mismo, solo cambia el nombre de pines.
 
 ---
 
