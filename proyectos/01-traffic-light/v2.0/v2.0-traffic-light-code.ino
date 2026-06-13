@@ -1,9 +1,9 @@
 // C++ code
 
-int button = 2;
-int ledGreen = 13;
-int ledOrange = 12;
-int ledRed = 11;
+int button = D4;
+int ledGreen = D7;
+int ledOrange = D6;
+int ledRed = D5;
 
 void setup()
 {
