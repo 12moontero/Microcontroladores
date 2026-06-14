@@ -25,6 +25,9 @@ Este proyecto lo he creado para aprender muchas cosas, como manejar la programac
 ![Montaje del circuito de policía](v1.0-capture.png)
 
 ---
+### Video del circuito
+![video del circuito](https://github.com/user-attachments/assets/9bef845b-d4ce-4e44-9a30-6ff7b733ef49)
+
 
 ### El Código : creado por mi
 
