@@ -32,7 +32,7 @@ Lo he montado lo más limpio posible para dar al botón y funcionar bien, tambi�
 ![captura del simulador](1-capture.png)
 
 ### Video mio:
-![Video de mis componentes](1-video.png)
+![Video de mis componentes](1-video.mp4)
 
 
 ---
