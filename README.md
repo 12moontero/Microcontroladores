@@ -18,8 +18,12 @@ Eso significa que los códigos que veas están hechos para WeMos D1 UNO R3 y no 
 1. **Semáforo:** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo.  
 * **Versiones:**  
         - `v1.0` - 9/06/2026  
-        - `v2.0` - 10/06/2026
+        - `v2.0` - 10/06/2026 
+
+* [![Ver Carpeta](https://img.shields.io/badge/ACCESO_DIRECTO-333333?style=for-the-badge)](https://github.com/12moontero/arduino-firsts-projects/tree/main/proyectos/01-traffic-light)
 
 2. **Luces de policía:** Un circuito que simula las luces de emergencia de la policía con destellos rápidos.  
 * **Versiones:**  
-        - `v1.0` - 14/06/2026
+        - `v1.0` - 14/06/2026   
+
+*  [![Ver Carpeta](https://img.shields.io/badge/ACCESO_DIRECTO-333333?style=for-the-badge)](https://github.com/12moontero/arduino-firsts-projects/tree/main/proyectos/02-police-lights)
