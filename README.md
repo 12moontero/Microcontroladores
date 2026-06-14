@@ -13,11 +13,13 @@ Eso significa que los códigos que veas están hechos para WeMos D1 UNO R3 y no 
 
 ---
 
-### Mis Proyectos:
-1. **Semáforo :** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo. 
-#### Versiones:
-   * v1.0 - 9/06/2026
-   * v2.0 - 10/06/2026
-2. **Luces de policía :** Un circuito que simula las luces de emergencia de la policía.
-#### Versiones:
-   * v1.0 - 14/06/2026
+### Mis Proyectos de Electrónica
+
+1. **Semáforo:** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo.  
+* **Versiones:**  
+        - `v1.0` - 9/06/2026  
+        - `v2.0` - 10/06/2026
+
+2. **Luces de policía:** Un circuito que simula las luces de emergencia de la policía con destellos rápidos.  
+* **Versiones:**  
+        - `v1.0` - 14/06/2026
