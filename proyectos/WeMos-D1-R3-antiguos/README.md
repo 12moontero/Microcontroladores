@@ -11,7 +11,7 @@ He decidido este cambio por estos motivos.
 
 ### Motivos de cambio:
 
-1. **El lío de los pines:** Esta placa tiene la mayoría de los pines no los puedes usar porque cuando vas a conectarlos, algunos no funciona porque lo tiene la propia placa para él y no funcionan bien solo 4 (D7, D6, D5) mas dan error.
+1. **El lío de los pines:** Esta placa tiene la mayoría de los pines no los puedes usar porque cuando vas a conectarlos, algunos no funciona porque lo tiene la propia placa para él y no funcionan bien solo 3 (D7, D6, D5) mas dan error.
 
 2. **Fallos:** Tiene demasiados, aparte de los pines, tiene fallos mientras vas progresando. No me imagino los fallos que tendrá con el WiFi y con todo.
 
