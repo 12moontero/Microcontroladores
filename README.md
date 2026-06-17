@@ -1,29 +1,15 @@
-# Mis Comienzos en Arduino y circuitos
+#  Mis comienzos en electrónica
 
-En este repositorio voy a ir subiendo todos mis proyectos, circuitos y códigos dedicados a la electrónica. 
-También vais a ver que está el código con pines de Arduino, pero en realidad yo uso una placa WeMos D1 R3.  
-Eso significa que los códigos que veas están hechos para WeMos D1 UNO R3 y no para Arduino, el código es el mismo, solo cambia el nombre de pines.
+En este repositorio voy a ir subiendo todos mis proyectos, circuitos y códigos dedicados a la electrónica. Aquí programo en **C++**, escribiendo cada línea de código a mano, sin trampas de autocompletar ni IA, para aprender la lógica real desde la base.
 
 ---
+### Organizacion
+He organizado todo este repositorio con carpetas de proyectos con distintas placas y carpetas de documentación hecha por mí, que he decidido poner para que veas cómo funciona todo y que te ayude.
 
-### Estoy usando:
-* **Simulador:** Tinkercad 
-* **Placa real:** WeMos D1 UNO R3, con WiFi ESP8266 y sensores.
-* **Lenguaje:** C++ .
+### El importante cambio de placa
 
----
+❌ WeMos D1 R3 ------>  ✅ Raspberry Pi Pico
 
-### Mis Proyectos de Electrónica
+Tras estar una semana intentando exprimir la WeMos D1 R3 (ESP8266), mi experiencia ha sido frustrante y malísima. Es una placa inestable que tiene pines iguales que se reserva para él, solo he podido usar 3 de ellos (D7, D6, D5) los demás no funcionaban. Me sirvió para entender lo más básico, pero se me ha quedado cortísima y la he mandado directa a la oscuridad para siempre.
 
-1. **Semáforo:** Un circuito que simula un semáforo de tráfico en verde que cambia a amarillo y rojo.  
-* **Versiones:**  
-        - `v1.0` - 9/06/2026  
-        - `v2.0` - 10/06/2026 
-
-* [![Ver Carpeta](https://img.shields.io/badge/ACCESO_DIRECTO-333333?style=for-the-badge)](https://github.com/12moontero/arduino-firsts-projects/tree/main/proyectos/01-traffic-light)
-
-2. **Luces de policía:** Un circuito que simula las luces de emergencia de la policía con destellos rápidos.  
-* **Versiones:**  
-        - `v1.0` - 14/06/2026   
-
-*  [![Ver Carpeta](https://img.shields.io/badge/ACCESO_DIRECTO-333333?style=for-the-badge)](https://github.com/12moontero/arduino-firsts-projects/tree/main/proyectos/02-police-lights)
+Por eso he decidido cambiarme a algo mucho mejor, a algo que quería que sea estable, con pines independientes, que pueda montar lo que quiera y lo más importante, que no me dé casi problemas con nada de conectividad y nada. Esa es la **Raspberry Pi Pico**. Con esta placa espero tener un aprendizaje mucho mejor .
