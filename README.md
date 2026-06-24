@@ -8,7 +8,7 @@ He organizado todo este repositorio con carpetas de proyectos con distintas plac
 
 ### El importante cambio de placa
 
-❌ WeMos D1 R3 ------>  ✅ Raspberry Pi Pico
+❌ WeMos D1 R3 ------>  ✅ Raspberry Pi Pico WH
 
 Tras estar una semana intentando exprimir la WeMos D1 R3 (ESP8266), mi experiencia ha sido frustrante y malísima. Es una placa inestable que tiene pines iguales que se reserva para él, solo he podido usar 3 de ellos (D7, D6, D5) los demás no funcionaban. Me sirvió para entender lo más básico, pero se me ha quedado cortísima y la he mandado directa a la oscuridad para siempre.
 
