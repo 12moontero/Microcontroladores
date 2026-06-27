@@ -30,4 +30,4 @@ He aprendido varias cosas, he tenido que aprender otra vez desde 0 la programaci
 
 
 ### Imagen Guia::
-![Circuito fisico](Imagen guia.png)
+![Circuito fisico](Imagenguia.png)
