@@ -12,7 +12,7 @@
 * [Cantidad]x [Componente 2]
 * Cables Dupont y Protoboard de 400 puntos
 
-## Mapa de Pines (Pinout)
+## Mapa de Pines 
 | Componente | Pin de la Pico 2 | Configuración / Uso |
 | :--- | :--- | :--- |
 | [Ej: LED Rojo] | [Ej: GPIO 15] | [Ej: Salida (OUT)] |
@@ -21,7 +21,7 @@
 ##  Montaje Físico
 ![Montaje del circuito](ruta_de_tu_foto.png)
 
-## ⚙️ Cómo Funciona (Lógica)
+## ⚙️ Cómo Funciona
 1. **Inicio:** [Ej: Configura salidas de los LEDs y la entrada del botón.]
 2. **Bucle:** [Ej: Mantiene el verde encendido hasta que el botón detecta corriente.]
 3. **Acción:** [Ej: Al pulsar, cambia a ámbar y luego a rojo durante 6 segundos.]
