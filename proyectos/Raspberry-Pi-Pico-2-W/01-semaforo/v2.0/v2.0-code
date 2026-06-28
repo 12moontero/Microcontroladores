@@ -1,0 +1,49 @@
+#include <stdio.h>          
+#include "pico/stdlib.h"    
+#include "hardware/gpio.h"  
+
+const uint PIN_LED_GREEN = 11;
+const uint PIN_LED_ORANGE = 12;
+const uint PIN_LED_RED = 13;
+const uint PIN_BOTON = 14;
+
+int main()
+{
+    stdio_init_all();
+
+    gpio_init(PIN_LED_GREEN);
+    gpio_init(PIN_LED_ORANGE);
+    gpio_init(PIN_LED_RED);
+    gpio_init(PIN_BOTON);
+
+    gpio_set_dir(PIN_LED_GREEN, GPIO_OUT);
+    gpio_set_dir(PIN_LED_ORANGE, GPIO_OUT);
+    gpio_set_dir(PIN_LED_RED, GPIO_OUT);
+    gpio_set_dir(PIN_BOTON, GPIO_IN);
+
+    gpio_pull_up(PIN_BOTON);
+
+    gpio_put(PIN_LED_GREEN, 1);
+    gpio_put(PIN_LED_ORANGE, 0);
+    gpio_put(PIN_LED_RED, 0);
+
+    while (true) 
+    { 
+        if (gpio_get(PIN_BOTON) == false) 
+            {
+                gpio_put(PIN_LED_GREEN, 0);
+                gpio_put(PIN_LED_ORANGE, 1);
+                sleep_ms(3000);
+                gpio_put(PIN_LED_ORANGE, 0);
+                gpio_put(PIN_LED_RED, 1);
+                sleep_ms(6000);
+                gpio_put(PIN_LED_RED, 0);
+            }
+        else
+        {
+            gpio_put(PIN_LED_GREEN, 1);  
+            gpio_put(PIN_LED_ORANGE, 0); 
+            gpio_put(PIN_LED_RED, 0);   
+        }
+    }
+}
