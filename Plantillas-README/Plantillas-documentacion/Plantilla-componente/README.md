@@ -2,7 +2,7 @@
 
 > **Descripción:** [Qué hace exactamente.]
 
-## 🔗 Esquema de conexión
+## Esquema de conexión
 [Explica aquí tu truco de los cables, ej: "Conectar en diagonal"]
 
 ## 💡 Nota 
