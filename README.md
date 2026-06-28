@@ -1,4 +1,4 @@
-#  Mis comienzos en electrónica
+#  Mis comienzos en Microcontroladores
 
 En este repositorio voy a ir subiendo todos mis proyectos, circuitos y códigos dedicados a la electrónica. Aquí programo en **C++**, escribiendo cada línea de código a mano, sin trampas de autocompletar ni IA, para aprender la lógica real desde la base.
 
